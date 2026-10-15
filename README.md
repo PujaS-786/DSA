@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PujaS-786/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PujaS-786/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PujaS-786/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/PujaS-786/DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PujaS-786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PujaS-786/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PujaS-786/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PujaS-786/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PujaS-786/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PujaS-786/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/PujaS-786/DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PujaS-786/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/PujaS-786/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PujaS-786/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PujaS-786/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PujaS-786/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/PujaS-786/DSA/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/PujaS-786/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PujaS-786/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
